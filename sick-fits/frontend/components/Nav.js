@@ -13,7 +13,7 @@ const Nav = () => {
                 <a>Sell</a>
             </Link>
             <Link href="/items">
-                <a>items</a>
+                <a>Shop</a>
             </Link>
             <Link href="/sell">
                 <a>sell</a>
