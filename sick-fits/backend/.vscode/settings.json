@@ -1,10 +1,13 @@
 {
-  "workbench.colorCustomizations": {
-    "titleBar.activeBackground": "#AA2C70",
-    "titleBar.inactiveBackground": "#AA2C70CC"
-  },
-  "editor.formatOnSave": true,
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#AA2C70",
+        "titleBar.inactiveBackground": "#AA2C70CC"
+    },
+    "editor.formatOnSave": true,
     "editor.detectIndentation": false,
     "prettier.eslintIntegration": true,
-    "prettier.tabWidth": 4
+    "prettier.tabWidth": 4,
+    "files.associations": {
+        "*.prisma": "graphql"
+    }
 }
